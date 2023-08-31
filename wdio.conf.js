@@ -8,8 +8,8 @@ capabilities: [{
 	"browserVersion": "117.0",
 	"LT:Options": {
         "build":"webdriverio",
-		"username": "prakhargahlot",
-		"accessKey": "KSFyXiVoPkQ9xWSczVlR0BeL8Z6mU4oHvJWZXHgToD6hElruWN",
+		"username": "<your lambdatest username>",
+		"accessKey": "<your lambdatest accesskey>",
 		"platformName": "Windows 10",
 		"project": "Untitled",
 		"w3c": true,
@@ -20,8 +20,8 @@ capabilities: [{
 	"browserName": "Firefox",
 	"browserVersion": "116.0",
 	"LT:Options": {
-		"username": "prakhargahlot",
-		"accessKey": "KSFyXiVoPkQ9xWSczVlR0BeL8Z6mU4oHvJWZXHgToD6hElruWN",
+		"username": "<your lambdatest username>",
+		"accessKey": "<your lambdatest accesskey>",
 		"platformName": "Windows 10",
 		"project": "Untitled",
 		"w3c": true,
@@ -32,8 +32,8 @@ capabilities: [{
 	"browserName": "Firefox",
 	"browserVersion": "114.0",
 	"LT:Options": {
-		"username": "prakhargahlot",
-		"accessKey": "KSFyXiVoPkQ9xWSczVlR0BeL8Z6mU4oHvJWZXHgToD6hElruWN",
+		"username": "<your lambdatest username>",
+		"accessKey": "<your lambdatest accesskey>",
 		"platformName": "macOS Ventura",
 		"project": "Untitled",
 		"w3c": true,
@@ -44,8 +44,8 @@ capabilities: [{
 	"browserName": "Internet Explorer",
 	"browserVersion": "11.0",
 	"LT:Options": {
-		"username": "prakhargahlot",
-		"accessKey": "KSFyXiVoPkQ9xWSczVlR0BeL8Z6mU4oHvJWZXHgToD6hElruWN",
+		"username": "<your lambdatest username>",
+		"accessKey": "<your lambdatest accesskey>",
 		"platformName": "Windows 11",
 		"project": "Untitled",
 		"w3c": true,
